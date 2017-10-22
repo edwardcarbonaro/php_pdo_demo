@@ -40,4 +40,6 @@ catch(PDOException $e)
     }
 $conn = null;
 
+echo "test";
+
 ?>
